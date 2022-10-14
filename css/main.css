@@ -240,7 +240,7 @@ footer a:not(.nav-link) {
 
 .marker:after {
   content: "";
-  width: 125px;
+  width: 275px;
   height: 30px;
   position: absolute;
   bottom: -25px;
@@ -252,7 +252,7 @@ footer a:not(.nav-link) {
 .marker-center:after {
   bottom: -30px;
   left: 50%;
-  margin-left: -60px;
+  margin-left: 60px;
 }
 
 @media (max-width: 575.98px) {
@@ -268,4 +268,21 @@ footer a:not(.nav-link) {
 
 .entry-title a {
   text-decoration: none;
+}
+
+
+/* new styling */
+div#services {
+  border-radius: 7px !important;
+}
+div#stats {
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+#footer {
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+.bg-light.my-2.p-3.pt-2 {
+  border-radius: 7px;
 }
