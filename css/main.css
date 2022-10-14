@@ -7,6 +7,8 @@ html, body {
  */
 html {
   scroll-behavior: smooth;
+  user-select: none;
+  -moz-user-select: none;
 }
 
 /**
@@ -244,7 +246,7 @@ footer a:not(.nav-link) {
   height: 30px;
   position: absolute;
   bottom: -25px;
-  right: -30px;
+  right: -40px;
   background-image: url("../images/marker.svg");
   background-repeat: no-repeat;
 }
