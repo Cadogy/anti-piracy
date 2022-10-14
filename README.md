@@ -1,4 +1,4 @@
-![](https://xfguard.com/images/xfguard-logo-final.png)&trade;
+![](https://xfguard.com/images/xfguard-logo-final.png)
 ### Advanced XenForo Anti-Piracy Protection
 ##### Protect Your Content, The Modern Way.Protect Your Content, The Modern Way.
 <p>
