@@ -254,7 +254,7 @@ footer a:not(.nav-link) {
 .marker-center:after {
   bottom: -30px;
   left: 50%;
-  margin-left: 60px;
+  margin-left: 75px;
 }
 
 @media (max-width: 575.98px) {
