@@ -288,3 +288,7 @@ div#stats {
 .bg-light.my-2.p-3.pt-2 {
   border-radius: 7px;
 }
+/*
+.border.border-3.rounded.px-2.py-2.d-flex.align-items-center:hover {
+  box-shadow: 0px 0px 8px rgba(255,221,0,0.20);
+} */
